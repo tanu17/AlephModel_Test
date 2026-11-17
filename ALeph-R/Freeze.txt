@@ -9,3 +9,4 @@ Aleph-R v0.6 model fingerprint: 2d1cacaf2a461c70e343af4640072de9a0788f1074fe04e3
 T-NA rules hash: 7448574c8513022ccf6b68e9eecf5b253b13c71faa28afe5c51d01cb015fe300
 
 T-ISCH rules hash: 1871ac0c600c29a159c2582199f24d805591f58d069a84d4d0525f68a3dfbd4f
+Aleph-R v0.7 model fingerprint: 695b1c57d433b2a096e9ec2821dc7f91fb39fc3da0072739f056ac47fe82a193
